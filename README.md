@@ -1,0 +1,4 @@
+estadis
+=======
+
+calculadors estadistica
